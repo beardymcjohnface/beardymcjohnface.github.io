@@ -89,12 +89,13 @@ Finally, add some code (thanks google) to cycle over posts and display a list of
 So as you can see there's only a handful of steps you need to do to set up the site's files and make it your own.
 Deployment is easy, just dump the files in your GitHub pages repo, and push. 
 Your site is now published at __reponame.github.io__.
-Setting up a custom domain takes a few extra steps:
 
-- purchase domain name
-- configure A and CNAME records on cloudflare, point to github
-- point domain registry name servers at cloudflare
-- add domain name in the github repo's settings, and to repo file called __CNAME__
+Setting up a custom domain takes a few extra steps.
+For the APG website I configured A and CNAME records on cloudflare pointing at github.
+Pointed domain registry name servers at cloudflare.
+Added the domain name in the github repo's settings (it creates a file in the repo called __CNAME__).
+For this site i got the domain from porkbun.
+Porkbun has an option to just input your github username and it configures all the DNS records for you.
 
 That's basically all there is!
 Adding posts is easy; locally I just create a new file in ___posts/__, give it a category and add the content as markdown. 
