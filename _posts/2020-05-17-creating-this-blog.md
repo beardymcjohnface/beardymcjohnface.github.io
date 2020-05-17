@@ -28,12 +28,13 @@ git clone https://github.com/pages-themes/midnight.git
 You could just create the repo and select a theme, the idea being you only need to add and modify a few files to make your website 
 but I wanted to customise the look and funcionality.
 For the APG website I made quite a few tweaks to change the look and feel, and to get a feel for the inner workings of jekyll.
-For this site I just changed some colours and tweaked some other CSS, and tweaked the __default.html__ template file.
+For this site I just changed some colours and tweaked some padding in the CSS. 
+I also had to tweak the __default.html__ template file to accomodate the new nav bar.
 
 Jekyll has inbuilt support for blog posting. 
 New blog posts simply go in a ___posts/__ directory with the format __yyyy-mm-dd-title.md__;
 Jekyll automatically infers the date and title, creates a url for the post, and even grabs an excerpt from the content.
-Some called 'front matter' goes at the top of this file:
+Some 'front matter' goes at the top of this file:
 
 ```
 ---
