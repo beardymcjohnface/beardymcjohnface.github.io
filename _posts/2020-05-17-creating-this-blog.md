@@ -106,6 +106,6 @@ bundel exec jekyll serve
 Commit the changes and push, and the website gets automtically rebuilt by GitHub.
 As you can see, you get a fair amount of website for very little cost and effort.
 
-You can view the files for this website at [github.com/beardymcjohnface/blog](https://github.com/beardymcjohnface/blog)
+You can view the files for this website at [github.com/beardymcjohnface/beardymcjohnface.github.io](https://github.com/beardymcjohnface/beardymcjohnface.github.io)
 
 
