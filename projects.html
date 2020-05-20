@@ -5,15 +5,13 @@ permalink: /projects
 
 <h2>Projects</h2>
 
-<p>nothing yet; watch this space</p>
-
 {% for post in site.posts %}
     <ul>
     {% if post.category == "project" %}
         <li>
           <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           <p>{{ post.date | date_to_string }}</p>
-          <p>{{ post.excerpt }}</p>
+          <p>{{ post.excerpt }} ...</p>
         </li>
     {% endif %}
     </ul>
