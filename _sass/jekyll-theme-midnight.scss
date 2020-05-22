@@ -296,10 +296,21 @@ section {
 @media print, screen and (max-width: 480px) {
 
   #header {
-    margin-top: -20px;
+    margin-top: -10px;
+    height: 50px;
   }
 
   section {
-    margin-top: 40px;
+    margin-top: 60px;
+  }
+  
+  nav {
+    li {
+      a {
+        padding: 5px 3px !important;
+        line-height: 12px !important;
+        font-size: 14px !important;
+      }
+    }
   }
 }
