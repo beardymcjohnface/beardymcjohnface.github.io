@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /archive
+title: Archive
+---
+
+## Archive
+
+{% for post in site.posts %}
+  <ul>
+    <li>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p>{{ post.date | date_to_string }}</p>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  </ul>
+{% endfor %}
