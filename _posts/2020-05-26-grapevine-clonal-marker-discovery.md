@@ -57,7 +57,7 @@ As such, a mapping-independent approach to filtering was required.
 
 We settled on a kmer-based filtering method.
 Essentially, the novel kmers that arise from a marker mutation are checked to see if they're present in the raw sequencing data for every sample.
-If the presence of these marker kmers is not consistent with the presence of the marker variant calls then the marker variant is filtered out.
+If the presence of these marker kmers is not consistent with the marker variant calls then the marker variant is filtered.
 
 ### Chardonnay clone phylogeny
 
