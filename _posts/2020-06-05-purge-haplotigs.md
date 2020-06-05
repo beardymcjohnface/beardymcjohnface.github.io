@@ -33,7 +33,7 @@ Most of the time I've spent on the software happened _after_ the first submissio
 The code-base has had substantial overhauls and refactoring following feedback from the reviewers and users,
 as well as following ideas that I'd had for performance improvements etc.
 Probably the most time has been spent on bug-fixes, usually trying to get the software to run on other peoples' systems.
-While I always knew that maintaining a package was necessary for it's success I don't think I appreciated just how time consuming it was going to be.
+While I always knew that maintaining a package was necessary for its success I don't think I appreciated just how time consuming it was going to be.
 
 ### Thing I've learned 3: It's incredibly rewarding
 
