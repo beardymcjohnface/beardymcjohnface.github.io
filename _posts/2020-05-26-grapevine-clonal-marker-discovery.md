@@ -1,10 +1,10 @@
 ---
 layout: post
 category: project
-title: "Part 2: Grapevine Clonal Marker Discovery"
+title: "Chardonnay Part 2: Clonal Marker Discovery"
 ---
 
-Continuing from [Part 1: The Chardonnay Reference Genome](/project/2020/05/19/the-chardonnay-reference-genome.html),
+Continuing from [Chardonnay Part 1: The Reference Genome](/project/2020/05/19/the-chardonnay-reference-genome.html),
 the second part of this project involved the identification of SNP and InDel markers that can distinguish the different clones of Chardonnay.
 The biggest challenge for this aspect was filtering out the hundreds of thousands of false-positive markers,
 from the millions of heterozygous variants, to identify the few thousand true marker SNPs and InDels.

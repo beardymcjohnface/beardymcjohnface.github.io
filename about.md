@@ -23,36 +23,16 @@ This site is intended to be a collection of stuff I've done, stuff I'm doing, an
 If you're interested in what I'm doing then great!
 If you googled your way here to debug some perl code your supervisor gave you then, good luck!
 
+## Associations
+
+Australian Bioinformatics And Computational Biology Society ([ABACBS](https://www.abacbs.org))
+
+Australian Society for Biochemistry and Molecular Biology ([ASBMB](https://www.asbmb.org.au))
+
+Adelaide Protein Group (committee member and webmaster; [APG](https://apg.asn.au))
+ 
 
 ## Publications
-
-_Purge Haplotigs: allelic contig reassignment for third-gen diploid genome assemblies_,
-(2018),
-__MJ Roach__, SA Schmidt, AR Borneman,
-BMC bioinformatics 19 (1), 460 | 
-[DOI](https://doi.org/10.1186/s12859-018-2485-7)
-
-
-_Population sequencing reveals clonal diversity and ancestral inbreeding in the grapevine cultivar Chardonnay_,
-(2018),
-__MJ Roach__, DL Johnson, J Bohlmann, HJJ van Vuuren, SJM Jones, IS Pretorius, SA Schmidt, AR Borneman,
-PLoS genetics 14 (11), e1007807 | 
-[DOI](https://doi.org/10.1371/journal.pgen.1007807)
-
-
-_Brettanomyces bruxellensis SSU1 haplotypes confer different levels of sulfite tolerance when expressed in a Saccharomyces cerevisiae SSU1 null mutant_,
-(2019),
-C Varela, C Bartel, __M Roach__, A Borneman, C Curtin,
-Appl. Environ. Microbiol. 85 (4), e02429-18 | 
-[DOI](https://doi.org/10.1128/AEM.02429-18) | [JOURNAL COVER](https://aem.asm.org/content/85/4.cover-expansion)
-
-
-_Inactivating mutations in Irc7p are common in wine yeasts, attenuating carbon-sulfur β-lyase activity and volatile sulfur compound production_,
-(2019),
-AG Cordente, AR Borneman, C Bartel, D Capone, M Solomon, __M Roach__, C Curtin,
-Appl. Environ. Microbiol. 85 (6), e02684-18 | 
-[DOI](https://doi.org/10.1128/AEM.02684-18)
-
 
 _New genome assemblies reveal patterns of domestication and adaptation across Brettanomyces (Dekkera) species_,
 (2020),
@@ -60,6 +40,26 @@ __MJ Roach__, AR Borneman,
 BMC genomics 21 (1), 1-14 | 
 [DOI](https://doi.org/10.1186/s12864-020-6595-z)
 
+_Inactivating mutations in Irc7p are common in wine yeasts, attenuating carbon-sulfur β-lyase activity and volatile sulfur compound production_,
+(2019),
+AG Cordente, AR Borneman, C Bartel, D Capone, M Solomon, __M Roach__, C Curtin,
+Appl. Environ. Microbiol. 85 (6), e02684-18 | 
+[DOI](https://doi.org/10.1128/AEM.02684-18)
 
+_Brettanomyces bruxellensis SSU1 haplotypes confer different levels of sulfite tolerance when expressed in a Saccharomyces cerevisiae SSU1 null mutant_,
+(2019),
+C Varela, C Bartel, __M Roach__, A Borneman, C Curtin,
+Appl. Environ. Microbiol. 85 (4), e02429-18 | 
+[DOI](https://doi.org/10.1128/AEM.02429-18) | [JOURNAL COVER](https://aem.asm.org/content/85/4.cover-expansion)
 
+_Population sequencing reveals clonal diversity and ancestral inbreeding in the grapevine cultivar Chardonnay_,
+(2018),
+__MJ Roach__, DL Johnson, J Bohlmann, HJJ van Vuuren, SJM Jones, IS Pretorius, SA Schmidt, AR Borneman,
+PLoS genetics 14 (11), e1007807 | 
+[DOI](https://doi.org/10.1371/journal.pgen.1007807)
 
+_Purge Haplotigs: allelic contig reassignment for third-gen diploid genome assemblies_,
+(2018),
+__MJ Roach__, SA Schmidt, AR Borneman,
+BMC bioinformatics 19 (1), 460 | 
+[DOI](https://doi.org/10.1186/s12859-018-2485-7)
