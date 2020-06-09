@@ -37,7 +37,7 @@ While I always knew that maintaining a package was necessary for its success I d
 
 ### Thing I've learned 3: It's incredibly rewarding
 
-Purge Haplotigs is far from being one of the most successful packages out there.
+Purge Haplotigs fills a small niche and is far from being one of the more popular bioinf software packages.
 It currently has 70 citations on google scholar 
 and I'm expecting it to be obsolete in a few years as both long-read sequencing and assemblers continue to improve.
 Nevertheless, it's already exceeded our original expectations.

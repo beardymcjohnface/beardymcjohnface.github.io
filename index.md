@@ -4,7 +4,6 @@ title: Home
 ---
 
 
-## Latest
 
 {% assign post = site.posts.first %}
 
@@ -17,19 +16,14 @@ title: Home
   {{ post.content | remove: post.excerpt }}
 </details>
 
-<br>
 
-## Recent
 
-<ul>
-  {% for post in site.posts offset:1 limit:2 %}
-    <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p>{{ post.date | date_to_string }}</p>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts offset:1 limit:3 %}
+  <br>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p>{{ post.date | date_to_string }}</p>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
 
 <br>
 
