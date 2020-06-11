@@ -73,9 +73,9 @@ ___Phylogeny of Chardonnay clones.__ Figure from Roach et al. (2018)_
 
 ## References
 
-_Population sequencing reveals clonal diversity and ancestral inbreeding in the grapevine cultivar Chardonnay_,
-(2018),
 MJ Roach, DL Johnson, J Bohlmann, HJJ van Vuuren, SJM Jones, IS Pretorius, SA Schmidt, AR Borneman,
+(2018),
+_Population sequencing reveals clonal diversity and ancestral inbreeding in the grapevine cultivar Chardonnay_,
 PLoS genetics 14 (11), e1007807 |
 [DOI](https://doi.org/10.1371/journal.pgen.1007807)
 

@@ -2,11 +2,17 @@
 @import "fonts";
 @import "rouge-base16-dark.scss";
 
+summary:focus {
+  outline: thin solid;
+  color: black;
+  background-color: #FFB997;
+}
+
 body {
   padding:0px 0 20px 0px;
   margin: 0px;
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #f0e7d5;
+  color: white;
   font-weight: normal;
   background: #252525;
   background-attachment: fixed !important;
@@ -55,6 +61,12 @@ a {
 
   &:hover {
     color: #843B62;
+  }
+  
+  &:focus {
+      outline: thin solid;
+      color: black;
+      background-color: #FFB997;
   }
 }
 
@@ -201,6 +213,12 @@ dt {
           background-color: #74546A;
           border: 1px solid #0B032D;
           box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
+        }
+        
+        &:focus {
+          outline: thin solid;
+          color: black;
+          background-color: #FFB997;
         }
       }
 

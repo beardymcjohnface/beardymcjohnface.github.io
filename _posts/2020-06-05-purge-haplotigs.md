@@ -49,15 +49,15 @@ Would I maintain more than one package at a time? absolutely not! :p
 
 ## References
 
-_Purge Haplotigs: allelic contig reassignment for third-gen diploid genome assemblies_,
-(2018),
 MJ Roach, SA Schmidt, AR Borneman,
+(2018),
+_Purge Haplotigs: allelic contig reassignment for third-gen diploid genome assemblies_,
 BMC bioinformatics 19 (1), 460 |
 [DOI](https://doi.org/10.1186/s12859-018-2485-7)
 
-_Ten recommendations for creating usable bioinformatics command line software_,
-(2013),
 Torsten Seemann,
+(2013),
+_Ten recommendations for creating usable bioinformatics command line software_,
 GigaScience, Volume 2, Issue 1, December 2013, 2047–217X–2–15 | [DOI](https://doi.org/10.1186/2047-217X-2-15)
 
 
