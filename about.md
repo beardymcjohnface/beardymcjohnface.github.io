@@ -34,6 +34,18 @@ Adelaide Protein Group (committee member and webmaster; [APG](https://apg.asn.au
 
 ## Publications
 
+CA Onetto, SA Schmidt, __MJ Roach__, AR Borneman
+(2020),
+_Comparative genome analysis proposes three new Aureobasidium species isolated from grape juice_,
+FEMS Yeast Research |
+[DOI](https://doi.org/10.1093/femsyr/foaa052)
+
+__MJ Roach__, AR Borneman, SA Schmidt
+(2020),
+_Origin of Chardonnay clones with historical significance in Australia and California_,
+Australian Journal of Grape and Wine Research |
+[DOI](https://doi.org/10.1111/ajgw.12448)
+
 __MJ Roach__, AR Borneman,
 (2020),
 _New genome assemblies reveal patterns of domestication and adaptation across Brettanomyces (Dekkera) species_,
