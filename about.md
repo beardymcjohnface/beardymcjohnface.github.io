@@ -6,15 +6,19 @@ title: About Me
 
 ## About me
 
-My name is Michael Roach and I'm a Research Scientist (bioinformatician) at the Australian Wine Research Institute (oPiNiOnS aRe My oWn).
-I'm currently working on multiple projects, the biggest recently being the Chardonnay genome project. 
-My contributions to other projects have predominantly involved various yeast genomes and analyses.
-While my field at the moment is very much genomics, my background was actually in drug discovery. 
-My Honours and PhD involved identifying and testing candidate structural inhibitors of malarial enzymes which required a lot of protein homology modelling and _in silico_ screening.
+My name is Michael Roach; I'm a Research Associate (bioinformatician) at the new Flinders Accelerator for Microbiome 
+Exploration at Flinders University (oPiNiOnS aRe My oWn). 
 
-Since joining the AWRI, I've occasionally managed to return to these roots and even expand into some Molecular Dynamics simulations.
-Otherwise, the transition from protein to DNA bioinformatics has been equal parts challenging and rewarding.
-My Research interests include all things genomics and protein structure, data viz and graphic design, bioinf software dev, and more recently webapp dev.
+I previously worked at the Australian Wine Research Institute where I assembled the Chardonnay genome and developed a
+new gold standard for grapevine clonal marker discovery. I wrote the pipeline Purge Haplotigs for heterozygous diploid
+assembly cleanup, and contributed to many other various yeast genomics projects etc.
+
+My Honours and PhD was in drug discovery, not genomics, and involved identifying and testing candidate structural 
+inhibitors of malarial enzymes which required a lot of protein homology modelling and _in silico_ screening.
+
+The transition from protein to DNA bioinformatics was equal parts challenging and rewarding, and I'm excited about the
+new move from genomics to metagenomics. My Research interests include all things bioinformatics, data viz and graphic 
+design, software dev, and more recently webapp dev.
 
 Outside of work I'm an enthusiast brewer and BCJP certified beer judge (bjcp.org), but wine is good too.
 I play video games, am a hockey goalie, and generally have too many interests and too little time.
