@@ -10,7 +10,7 @@ However, they can be both useful _and_ pretty.
 In this part I'll cover a basic circos plot with coverage and SNP
 histograms, which can be helpful for things like assessing an assembly
 for LoH, gene conversions, redundancy, etc.
-
+<!--more-->
 Don't feel like learning anything?
 That's ok too, here's a pipeline:
 [https://bitbucket.org/mroachawri/snakemakecircos/](https://bitbucket.org/mroachawri/snakemakecircos/)

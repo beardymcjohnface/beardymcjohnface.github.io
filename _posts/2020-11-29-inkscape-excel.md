@@ -11,7 +11,7 @@ actually use an Excel graph would they? Assuming you're happy with the
 data and want something presentable, do you repeat the process in GraphPad?
 Punch out a wall of R code? Or, do you just tweak it in a vector graphic
 application to make it look nice?
-
+<!--more-->
 
 I've been using Inkscape for a couple of years to finish figures for 
 publications and presentations. I've also used it for producing 

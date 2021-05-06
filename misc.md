@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /misc
+permalink: /misc/
 title: Misc Posts
 ---
 

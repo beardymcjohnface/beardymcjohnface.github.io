@@ -6,7 +6,7 @@ category: misc
 If you're a data scientist/bioinformatician/whatever and are looking at making your own static website, you can't go wrong with [GitHub Pages](https://pages.github.com).
 It's free, it's easy, and it's fast. 
 There are plenty of tutorials on the subject and I'm not an expert, so, this is not a guide, just a breif showcase.
-
+<!--more-->
 I first made a github page a few years ago for the [Adelaide Protein Group](https://apg.asn.au) for which I'm the webmaster.
 The group started in 2008 as a special interest group of the [Australian Society for Biochemistry and Molecular Biology](https://www.asbmb.org.au/).
 In the early years the APG needed the website to manage the event RSVP functionality, email newsletters etc. 

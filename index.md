@@ -13,7 +13,7 @@ title: Home
 <details>
   <summary>
     {{ post.excerpt }}(<i>Click to expand</i>)
-</summary>
+  </summary>
   {{ post.content | remove: post.excerpt }}
 </details>
 
@@ -24,7 +24,7 @@ title: Home
 {% for post in site.posts offset:1 limit:3 %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p>{{ post.date | date_to_string }}</p>
-  <p>{{ post.excerpt }}</p>
+  <p>{{ post.excerpt }} ...</p>
 {% endfor %}
 
 <br>

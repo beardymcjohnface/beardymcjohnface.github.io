@@ -9,7 +9,7 @@ In this example we make the plot from a nucmer alignment (part of the [MUMmer pa
 using two different _Brettanomyces bruxellensis_ assemblies: 
 [AWRI2804](https://www.ncbi.nlm.nih.gov/assembly/GCA_011074885.1) and [CBS2499](https://www.ncbi.nlm.nih.gov/assembly/GCA_000340765.1).
 The plots are great for visualising structural rearrangements and identifying potential misassemblies.
-
+<!--more-->
 ## Align the genomes
 
 The first thing you'll probably want to do is to rearrange your contigs for an optimal layout; 
