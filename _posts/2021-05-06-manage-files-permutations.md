@@ -4,7 +4,7 @@ category: misc
 title: "Managing thousands of pipeline files with permutations"
 ---
 
-I'm working on a pipeline that uses and generates tens of thousands of files, and there's a good change this could be 
+I'm working on a pipeline that uses and generates tens of thousands of files, and there's a good chance this could be 
 expanded to produce hundreds of thousands. I wanted to avoid creating a few folders with thousands upon thousands of 
 files in them, so I needed a way to distribute the files across a nested directory structure. 
 <!--more-->
@@ -17,8 +17,15 @@ pages are generated when looked up but importantly, the text for a page is gener
 The concept can be used in a pipeline to manage file locations. The character string of the sample names are converted 
 to binary, and the integer of that bit string is returned. The integer is used as a seed to produce a pseudo-random 
 integer. I say pseudo-random because the same integer is returned every time. This integer can be used for denoting the 
-file location for that sample's files (e.g. the integer 5279 could denote the file path 5/2/7/9, or 52/79 etc.). 
-I'm using Snakemake, so my implementation is in Python:
+file location for that sample's files (e.g. the integer 5279 could denote the file path 5/2/7/9, or 52/79 etc.). The LCG 
+formula is simply:
+
+(_a_ * _X_ + _c_) mod _m_ 
+
+Where _a_ is the multiplier, _X_ is the seed, _c_ is the increment, and _m_ is the modulus. For the LCG to work properly, 
+_m_ should be larger than the expected permutations (or in this case, large enough for creating file paths), _m_ and _a_ 
+should be relatively prime, and _c_ and _a_ should be close to _m_. This should ensure that samples with near-identical 
+names will still produce very different integers. I'm using Snakemake, so my implementation is in Python:
 
 ```python
 def sample_loc(sampleName):
@@ -57,8 +64,8 @@ nested structure.
 The advantage of this is that if you know the sample name you know the location for its files (it is calculated very 
 quickly), and you don't need to commit a dictionary of file paths to the system's memory. The location for that sample's 
 files won't ever change, unless you start messing with the sample names or LCG values. You can create other functions to 
-generate file manifests, targets for Snakemake etc. Here is a function to return the file paths for all samples for a 
-given file extension.
+generate file manifests, target lists for Snakemake etc. Here is a function to return the file paths for all samples for
+a given file extension.
 
 ```python
 def all_sample_files(ext):
@@ -68,8 +75,8 @@ def all_sample_files(ext):
     return files
 ```
 
-You can then use in Snakemake rules, for instance in rule 'all' to tell the pipeline to generate bam files for all your
-samples.
+You can then use it in Snakemake rules, for instance in rule 'all' to tell the pipeline to generate bam files for all 
+your samples.
 
 ```python
 rule all:
@@ -88,8 +95,8 @@ rule map:
 ```
 
 The only other issue is populating the samples' folders with the pipeline's input files. I did this using symlinks for 
-the pipeline inputs, which are in a directory called 'reads'. Linking the pipeline inputs into the sample folders makes 
-writing rules very simple (like in the rule 'map' above). You can do this in the Snakefile:
+the pipeline inputs, which were all dumped in a directory called 'reads'. Linking the pipeline inputs into the sample 
+folders makes writing rules very simple (like in the rule 'map' above). To do the symlinks in the Snakefile:
 
 ```python
 SAMPLES, = glob_wildcards(os.path.join('reads', '{sample}_R1.fastq.gz'))
@@ -104,11 +111,8 @@ for sample in SAMPLES:
                 os.path.join(os.getcwd(), loc, f'{sample}_{r}.fastq.gz'))
 ```
 
-For the LCG to work properly the modulus should be larger than the expected permutations, the modulus and increment 
-should be relatively prime, and the increment and multiplier should be close to the modulus. This should ensure that 
-samples with near-identical names will still produce very different integers. This 'randomness' is important for making 
-sure the samples are relatively evenly distributed. I generated integers for 15000ish sample names and collected the 
-composition of the leading characters.
+This 'randomness' of the LCG is important for making sure the samples are relatively evenly distributed. I generated 
+integers for 15000ish sample names and collected the composition of the leading characters to check for evenness.
 
 ```text
 cat list.out | cut -c1 | sort | uniq -c | sort -g
