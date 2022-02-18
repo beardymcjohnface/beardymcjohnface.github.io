@@ -38,6 +38,22 @@ Adelaide Protein Group (committee member and webmaster; [APG](https://apg.asn.au
 
 ## Publications
 
+__MJ Roach__, K McNair, SK Giles, LK Inglis, E Pargin, S Roux, P Decewicz, RA Edwards
+(2021),
+_Philympics 2021: Prophage Predictions Perplex Programs_,
+F1000Research | [DOI](https://doi.org/10.12688/f1000research.54449.1)
+
+__M Roach__, A Cantu, MK Vieri, M Cotten, P Kellam, M Phan, L Hoek, M Mandro, F Tepage, G Mambandu, G Musinya, A Laudisoit, R Colebunders, R Edwards, JL Mokili
+(2021),
+_No Evidence Known Viruses Play a Role in the Pathogenesis of Onchocerciasis-Associated Epilepsy. An Explorative Metagenomic Case-Control Study_,
+Pathogens | [DOI](https://doi.org/10.3390/pathogens10070787)
+
+C Bartel, __M Roach__, C Onetto, C Curtin, C Varela, C Borneman
+(2021),
+_Adaptive evolution of sulfite tolerance in Brettanomyces bruxellensis_,
+FEMS Yeast Research | 
+[DOI](https://doi.org/10.1093/femsyr/foab036)
+
 CA Onetto, SA Schmidt, __MJ Roach__, AR Borneman
 (2020),
 _Comparative genome analysis proposes three new Aureobasidium species isolated from grape juice_,
