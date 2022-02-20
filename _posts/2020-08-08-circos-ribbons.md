@@ -2,14 +2,14 @@
 layout: post
 category: misc
 title: "Circos part 2: Ribbons"
+excerpt: |
+    Following on from the previous post; in Circos part 2 I cover using ribbons to create a jupiter plot.
+    In this example we make the plot from a nucmer alignment (part of the MUMmer package (https://github.com/mummer4/mummer)),
+    using two different _Brettanomyces bruxellensis_ assemblies: 
+    AWRI2804 (https://www.ncbi.nlm.nih.gov/assembly/GCA_011074885.1) and CBS2499 (https://www.ncbi.nlm.nih.gov/assembly/GCA_000340765.1).
+    The plots are great for visualising structural rearrangements and identifying potential misassemblies. <br><br>
 ---
 
-Following on from the previous post; in Circos part 2 I cover using ribbons to create a jupiter plot.
-In this example we make the plot from a nucmer alignment (part of the [MUMmer package](https://github.com/mummer4/mummer)),
-using two different _Brettanomyces bruxellensis_ assemblies: 
-[AWRI2804](https://www.ncbi.nlm.nih.gov/assembly/GCA_011074885.1) and [CBS2499](https://www.ncbi.nlm.nih.gov/assembly/GCA_000340765.1).
-The plots are great for visualising structural rearrangements and identifying potential misassemblies.
-<!--more-->
 ## Align the genomes
 
 The first thing you'll probably want to do is to rearrange your contigs for an optimal layout; 

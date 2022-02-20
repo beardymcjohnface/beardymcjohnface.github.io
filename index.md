@@ -14,7 +14,7 @@ title: Home
   <summary>
     {{ post.excerpt }}(<i>Click to expand</i>)
   </summary>
-  {{ post.content | remove: post.excerpt }}
+  {{ post.content | remove_first: post.excerpt }}
 </details>
 
 <br>

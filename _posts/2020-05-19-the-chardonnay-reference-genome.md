@@ -2,14 +2,14 @@
 layout: post
 category: project
 title: "Chardonnay Part 1: The Reference Genome"
+excerpt: |
+    Chardonnay was the second grapevine genome to be assembled using third-generation long read sequencing.
+    Like the Cabernet Sauvignon genome, FALCON-Unzip was used to generate a 'diploid' assembly.
+    The assembler, sequencing technology, and the concept of diploid assemblies were relatively new at the time
+    so there were several hurdles to overcome before the Chardonnay reference genome was ready for our clonal marker work.<br><br>
 ---
 
-Chardonnay was the second grapevine genome to be assembled using third-generation long read sequencing.
-Like the Cabernet Sauvignon genome, FALCON-Unzip was used to generate a 'diploid' assembly.
-The assembler, sequencing technology, and the concept of diploid assemblies were relatively new at the time
-so there were several hurdles to overcome before the Chardonnay reference genome was ready for our clonal marker work.
-Continued in [Chardonnay Part 2: Clonal Marker Discovery](/project/2020/05/26/grapevine-clonal-marker-discovery.html)
-<!--more-->
+Continued in [Chardonnay Part 2: Clonal Marker Discovery](/project/2020/05/26/grapevine-clonal-marker-discovery.html), 
 [_Read the paper_](https://doi.org/10.1371/journal.pgen.1007807)
 
 This project began well before I started at the AWRI, with the original approach using pool-BAC sequencing.

@@ -2,16 +2,15 @@
 layout: post
 category: misc
 title: "Inkscape: Hiding your Excel shame"
+excerpt: |
+  We've all been there; you just want to quickly plot some data to see if an
+  experiment worked. You look over your shoulder to check that the coast is 
+  clear and fire up Excel. No self respecting computer scientist would 
+  actually use an Excel graph would they? Assuming you're happy with the 
+  data and want something presentable, do you repeat the process in GraphPad?
+  Punch out a wall of R code? Or, do you just tweak it in a vector graphic
+  application to make it look nice? <br><br>
 ---
-
-We've all been there; you just want to quickly plot some data to see if an
-experiment worked. You look over your shoulder to check that the coast is 
-clear and fire up Excel. No self respecting computer scientist would 
-actually use an Excel graph would they? Assuming you're happy with the 
-data and want something presentable, do you repeat the process in GraphPad?
-Punch out a wall of R code? Or, do you just tweak it in a vector graphic
-application to make it look nice?
-<!--more-->
 
 I've been using Inkscape for a couple of years to finish figures for 
 publications and presentations. I've also used it for producing 

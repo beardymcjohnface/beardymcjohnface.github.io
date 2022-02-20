@@ -2,11 +2,11 @@
 layout: post
 category: project
 title: "Publishing a bioinf package"
+excerpt: |
+    There's not much to say about Purge Haplotigs that isn't already covered in the paper and documentation.
+    Instead I'll talk about my impressions and experience with creating a bioinformatics software package.
 ---
 
-There's not much to say about Purge Haplotigs that isn't already covered in the paper and documentation.
-Instead I'll talk about my impressions and experience with creating a bioinformatics software package.
-<!--more-->
 [_Read the paper_](https://doi.org/10.1186/s12859-018-2485-7)
 
 ### but y tho?

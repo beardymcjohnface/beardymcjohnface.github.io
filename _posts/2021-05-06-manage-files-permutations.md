@@ -2,12 +2,12 @@
 layout: post
 category: misc
 title: "Managing thousands of pipeline files with permutations"
+excerpt: |
+    I'm working on a pipeline that uses and generates tens of thousands of files, 
+    and there's a good chance this could be expanded to produce hundreds of thousands. 
+    I wanted to avoid creating a few folders with thousands upon thousands of files in them, 
+    so I needed a way to distribute the files across a nested directory structure. <br><br>
 ---
-
-I'm working on a pipeline that uses and generates tens of thousands of files, and there's a good chance this could be 
-expanded to produce hundreds of thousands. I wanted to avoid creating a few folders with thousands upon thousands of 
-files in them, so I needed a way to distribute the files across a nested directory structure. 
-<!--more-->
 
 The solution I ended up using was inspired by the [Library of Babel](https://libraryofbabel.info/), which uses a 
 [linear congruential generator](https://en.wikipedia.org/wiki/Linear_congruential_generator) (LCG) to produce unique 
