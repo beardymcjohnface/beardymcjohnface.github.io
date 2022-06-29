@@ -1,4 +1,13 @@
 ## Publications
+__Michael Roach__, Sarah Beecroft, Kathie A Mihindukulasuriya, Leran Wang, Lais Farias Oliveira Lima, Elizabeth A Dinsdale, Robert A Edwards, Scott A Handley
+(2022),
+_Hecatomb: An End-to-End Research Platform for Viral Metagenomics_,
+BioRxiv | [DOI](https://doi.org/10.1101/2022.05.15.492003)
+
+Sarah K Giles, Uwe H Stroeher, Bhavya Papudeshi, Robert A Edwards, Jessica AP Carlson-Jones, __Michael Roach__, Melissa H Brown
+(2022),
+_The StkSR Two-Component System Influences Colistin Resistance in Acinetobacter baumannii_,
+Microorganisms | [DOI](https://doi.org/10.3390/microorganisms10050985)
 
 __MJ Roach__, K McNair, SK Giles, LK Inglis, E Pargin, S Roux, P Decewicz, RA Edwards
 (2021),
