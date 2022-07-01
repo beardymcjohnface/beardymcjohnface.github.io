@@ -21,6 +21,9 @@ FAME Metagenomics Workshop, Part of the South Australia Genomics Centre's worksh
 Introduction to Snakemake (parts 1 and 2), FAME Bioinformatics meeting, 2022 | 
   [URL](https://fame.flinders.edu.au/blog/2022/05/10/snakemake-intro)
 
+Data visualisation for Atavide: importing your data into R, FAME Bioinformatics meeting, 2021 |
+  [URL](https://fame.flinders.edu.au/blog/2021/09/24/atavide-import)
+
 Viral Metagenomics with Hecatomb, ABACBS conference, 2021 | 
   [Program](/docs/Program_ABACBS2021.pdf)
 
