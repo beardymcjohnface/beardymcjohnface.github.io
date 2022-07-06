@@ -16,7 +16,7 @@ Chardonnay,
 
 FAME Metagenomics Workshop, Part of the South Australia Genomics Centre's workshop series, 2022 |
   [Twitter](https://twitter.com/SA_genomics/status/1539053100316913664) | 
-  [URL](bioinf.cc/workshop2022)
+  [URL](https://bioinf.cc/workshop2022)
 
 Introduction to Snakemake (parts 1 and 2), FAME Bioinformatics meeting, 2022 | 
   [URL](https://fame.flinders.edu.au/blog/2022/05/10/snakemake-intro)
