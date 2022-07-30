@@ -2,6 +2,12 @@
 
 ## Talks
 
+Hecatomb: An End-to-End Bioinformatics Research Platform for Viral Metagenomics, ASM, 2022 |
+[Program](/docs/Program_ASM2022.pdf) | [Slides](https://cloudstor.aarnet.edu.au/plus/s/AfMYay7EQMEbAjF)
+
+Session Co-Chair, Terrestrial Microbiology, ASM, 2022 |
+[Program](/docs/Program_ASM2022.pdf)
+
 Session Chair, Session 4: Biomedical, ABACBS conference, 2021 | 
 [Program](/docs/Program_ABACBS2021.pdf)
 
@@ -35,7 +41,7 @@ Hecatomb: Accurately classify your viral metagenome sequences, Australian Societ
 Population sequencing reveals clonal diversity and ancestral inbreeding in the grapevine cultivar Chardonnay 
 - 17th Australian Wine Industry Technical Conference, 2019 | 
   [Poster](/docs/30-Chardonnay-genome.pdf)
-- Plant and Animal Genome XXVIII Conference, 2020, San Diego, USA 
+- Plant and Animal Genome XXVIII Conference, 2020, San Diego, USA |
   [Poster](/docs/30-Chardonnay-genome.pdf)
   
 Curating the FALCON-Unzip Chardonnay de novo genome assembly, BioInfoSummer 2016 | 

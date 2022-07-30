@@ -27,8 +27,14 @@ This site is intended to be a collection of stuff I've done, stuff I'm doing, an
 If you're interested in what I'm doing then great!
 If you googled your way here to debug some perl code your supervisor gave you then, good luck!
 
+---
+
+_The rest of this page is for my own reference more than anything else_
+
 {% include associations.md %}
 
 {% include publications.md %}
 
 {% include presentations.md %}
+
+{% include non-peer-reviewed.md %}
