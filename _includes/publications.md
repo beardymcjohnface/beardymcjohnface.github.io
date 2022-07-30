@@ -1,4 +1,5 @@
-## Publications
+# Publications
+
 __Michael Roach__, Sarah Beecroft, Kathie A Mihindukulasuriya, Leran Wang, Lais Farias Oliveira Lima, Elizabeth A Dinsdale, Robert A Edwards, Scott A Handley
 (2022),
 _Hecatomb: An End-to-End Research Platform for Viral Metagenomics_,

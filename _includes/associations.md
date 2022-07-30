@@ -1,4 +1,4 @@
-## Associations
+# Associations
 
 Australian Bioinformatics And Computational Biology Society ([ABACBS](https://www.abacbs.org))
 
