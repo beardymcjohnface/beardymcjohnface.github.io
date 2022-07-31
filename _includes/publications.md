@@ -54,7 +54,8 @@ C Varela, C Bartel, __M Roach__, A Borneman, C Curtin,
 (2019),
 _Brettanomyces bruxellensis SSU1 haplotypes confer different levels of sulfite tolerance when expressed in a Saccharomyces cerevisiae SSU1 null mutant_,
 Appl. Environ. Microbiol. 85 (4), e02429-18 | 
-[DOI](https://doi.org/10.1128/AEM.02429-18) | [JOURNAL COVER](https://aem.asm.org/content/85/4.cover-expansion)
+[DOI](https://doi.org/10.1128/AEM.02429-18) | 
+[JOURNAL COVER](https://aem.asm.org/content/85/4.cover-expansion)
 
 __MJ Roach__, DL Johnson, J Bohlmann, HJJ van Vuuren, SJM Jones, IS Pretorius, SA Schmidt, AR Borneman,
 (2018),
