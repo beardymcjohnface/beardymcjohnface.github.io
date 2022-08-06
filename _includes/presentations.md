@@ -17,7 +17,7 @@ Chardonnay,
 - Australian Genomic Technologies Association Annual Conference, 2018 | 
   [Program](/docs/AGTA-2018-Draft-Program-V5.pdf)
 - 17th Australian Wine Industry Technical Conference, 2019 | 
-  [Webcast](bit.ly/2ytanb6)
+  [Webcast](https://bit.ly/2ytanb6)
     
 ## Workshops
 
