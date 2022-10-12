@@ -1,5 +1,15 @@
 # Publications
 
+Ryan D Hesse, __Michael Roach__, Emma N Kerr, Bhavya Papudeshi, Laís FO Lima, Asha Z Goodman, Lisa Hoopes, Mark Scott, Lauren Meyer, Charlie Huveneers, Elizabeth A Dinsdale
+(2022),
+_Phage Diving: An Exploration of the Carcharhinid Shark Epidermal Virome_,
+Viruses | [DOI](https://doi.org/10.3390/v14091969)
+
+Alyce M Martin, __Michael Roach__, Lauren A Jones, Daniel Thorpe, Rosemary A Coleman, Caitlin Allman, Robert Edwards, Damien J Keating
+(2022),
+_Single-cell gene expression links SARS-CoV-2 infection and gut serotonin_,
+Gut | [DOI](https://doi.org/10.1136/gutjnl-2022-328262)
+
 __Michael Roach__, Sarah Beecroft, Kathie A Mihindukulasuriya, Leran Wang, Lais Farias Oliveira Lima, Elizabeth A Dinsdale, Robert A Edwards, Scott A Handley
 (2022),
 _Hecatomb: An End-to-End Research Platform for Viral Metagenomics_,
