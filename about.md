@@ -31,6 +31,8 @@ If you googled your way here to debug some perl code your supervisor gave you th
 
 _The rest of this page is for my own reference more than anything else_
 
+---
+
 {% include associations.md %}
 
 {% include publications.md %}
