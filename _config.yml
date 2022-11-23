@@ -5,6 +5,10 @@ google_analytics: UA-108055552-2
 theme: jekyll-theme-midnight
 excerpt_separator: <!--more-->
 
+include:
+  - _pages
+  - _redirects
+
 # Colour palette for future reference
 # https://coolors.co/ffb997-f67e7d-843b62-0b032d-74546a
 
