@@ -39,4 +39,6 @@ _The rest of this page is for my own reference more than anything else_
 
 {% include presentations.md %}
 
+{% include awards.md %}
+
 {% include non-peer-reviewed.md %}

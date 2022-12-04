@@ -79,6 +79,11 @@ __Online__, 2021 |
 
 ## Posters
 
+_Creating command line tools is easy with Snakemake or Nextflow),
+ABACBS conference,
+__Melbourne__, 2022 |
+[Poster](https://cloudstor.aarnet.edu.au/plus/s/7unV1NNW59oY47X)
+
 _Hecatomb: Accurately classify your viral metagenome sequences_, 
 ASM conference, 
 __Online__, 2021 | 
