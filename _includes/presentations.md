@@ -79,7 +79,7 @@ __Online__, 2021 |
 
 ## Posters
 
-_Creating command line tools is easy with Snakemake or Nextflow),
+_Creating command line tools is easy with Snakemake or Nextflow)_,
 ABACBS conference,
 __Melbourne__, 2022 |
 [Poster](https://cloudstor.aarnet.edu.au/plus/s/7unV1NNW59oY47X)
