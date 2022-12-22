@@ -1,5 +1,10 @@
 # Publications
 
+__Michael J Roach__, N Tessa Pierce-Ward, Radoslaw Suchecki, Vijini Mallawaarachchi, Bhavya Papudeshi, Scott A Handley, C Titus Brown, Nathan S Watson-Haigh, Robert A Edwards
+(2022),
+_Ten simple rules and a template for creating workflows-as-applications_,
+Plos Comp. Biol. | [DOI](https://doi.org/10.1371/journal.pcbi.1010705)
+
 Ryan D Hesse, __Michael Roach__, Emma N Kerr, Bhavya Papudeshi, Laís FO Lima, Asha Z Goodman, Lisa Hoopes, Mark Scott, Lauren Meyer, Charlie Huveneers, Elizabeth A Dinsdale
 (2022),
 _Phage Diving: An Exploration of the Carcharhinid Shark Epidermal Virome_,
