@@ -121,7 +121,7 @@ which is better for overall clarity.
 
 ```bash
 # bash terminal
-show-coords -TH out.1delta | sort -k5,5nr | awk '{z+=1;print $8"\t"$1"\t"$2"\t"$9"\t"$3"\t"$4"\tz="z"}' > links.tsv
+show-coords -TH out.1delta | sort -k5,5nr | awk '{z+=1;print $8"\t"$1"\t"$2"\t"$9"\t"$3"\t"$4"\tz="z}' > links.tsv
 ```
 
 Add the config options for your links to your circos.conf file.
