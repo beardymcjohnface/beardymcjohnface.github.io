@@ -561,4 +561,4 @@ rule count_reads:
 __Like with envs, the script paths are always relative to the Snakefile.__
 So much cleaner, isn't it?
 
-__Continued in [part 2](https://fame.flinders.edu.au/workshops/2022/05/25/snakemake-intro-pt2) of our Snakemake tutorial__
+__Continued in part 2...__
