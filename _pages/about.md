@@ -6,39 +6,39 @@ title: About Me
 
 ## About me
 
-My name is Michael Roach; I'm a Research Associate (bioinformatician) at the new Flinders Accelerator for Microbiome 
-Exploration at Flinders University (oPiNiOnS aRe My oWn). 
+My name is Michael Roach; I'm a Senior Research Fellow and the Bioinformatics platform lead at the Flinders Health
+and Medical Research Institute. 
 
-I previously worked at the Australian Wine Research Institute where I assembled the Chardonnay genome and developed a
-new gold standard for grapevine clonal marker discovery. I wrote the pipeline Purge Haplotigs for heterozygous diploid
-assembly cleanup, and contributed to many other various yeast genomics projects etc.
+My research interests include developing new tools and methods to expand the capabilities of emerging 'omics 
+technologies. At FHMRI, I will be looking to expand the bioinformaitcs capacity, and grow the community across the 
+College of Medicine and Public Health and the College of Science and Engineering.
 
-My Honours and PhD was in drug discovery, not genomics, and involved identifying and testing candidate structural 
-inhibitors of malarial enzymes which required a lot of protein homology modelling and _in silico_ screening.
+I previously worked at the Australian Wine Research Institute (AWRI) where I assembled the Chardonnay genome and 
+developed the new gold standard for grapevine clonal marker discovery. I completed a post-doc at the Flinders 
+Accelerator for Microbiome Exploration (FAME), where we applied metagenomics to obtain a better understanding of the 
+microbiomes associated with various environemental and human health issues. More recently, I worked at the Adelaide 
+Centre for Epigenetics (ACE) and South Australian immunoGENomics Cancer Institute (SAiGENCI) developing new 
+bioinformatics software and methods for single cell and spatial 'omics.
 
-The transition from protein to DNA bioinformatics was equal parts challenging and rewarding, and I'm excited about the
-new move from genomics to metagenomics. My Research interests include all things bioinformatics, data viz and graphic 
-design, software dev, and more recently webapp dev.
+[//]: # (---)
 
-Outside of work I'm an enthusiast brewer and BCJP certified beer judge (bjcp.org), but wine is good too.
-I play video games, am a hockey goalie, and generally have too many interests and too little time.
+[//]: # ()
+[//]: # (_The rest of this page is for my own reference more than anything else_)
 
-This site is intended to be a collection of stuff I've done, stuff I'm doing, and stuff I think is neat. 
-If you're interested in what I'm doing then great!
-If you googled your way here to debug some perl code your supervisor gave you then, good luck!
+[//]: # ()
+[//]: # (---)
 
----
+[//]: # ()
+[//]: # ({% include associations.md %})
 
-_The rest of this page is for my own reference more than anything else_
+[//]: # ()
+[//]: # ({% include publications.md %})
 
----
+[//]: # ()
+[//]: # ({% include presentations.md %})
 
-{% include associations.md %}
+[//]: # ()
+[//]: # ({% include awards.md %})
 
-{% include publications.md %}
-
-{% include presentations.md %}
-
-{% include awards.md %}
-
-{% include non-peer-reviewed.md %}
+[//]: # ()
+[//]: # ({% include non-peer-reviewed.md %})
